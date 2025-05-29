@@ -111,15 +111,6 @@ function HoverTranslateTwo() {
                       : "scale-95 blur-[2px] opacity-60"
                   }
                 `}
-                //     background:
-                //     "radial-gradient(65.62% 65.62% at 50% 50%, \
-                //   rgba(0, 0, 255, 0.32) 0%, \
-                //   rgba(0, 0, 255, 0) 100%), \
-                //   linear-gradient( \
-                //   rgba(0, 128, 255, 0.12) 0%, \
-                //   rgba(255,255,255,0.10) 100%), \
-                //   rgba(0, 0, 255, 0.56)",
-
                 style={{
                   background:
                     "radial-gradient(65.62% 65.62% at 50% 50%, \
