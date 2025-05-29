@@ -4,12 +4,14 @@ import Image from "next/image";
 import React, { useState } from "react";
 
 const cards = [
+  // copy not visible
   {
     id: 1,
     logo: "/openai-white.svg",
     name: "Grok 3",
     contextWindow: "128k",
   },
+  // copy not visible
   {
     id: 2,
     logo: "/anthropic-white.svg",
@@ -34,18 +36,21 @@ const cards = [
     name: "Grok 3",
     contextWindow: "128k",
   },
+  // copy not visible
   {
     id: 6,
     logo: "/grok-white.svg",
     name: "Grok 3",
     contextWindow: "128k",
   },
+  // copy not visible
   {
     id: 7,
     logo: "/openai-white.svg",
     name: "Grok 3",
     contextWindow: "128k",
   },
+  // copy not visible
   {
     id: 8,
     logo: "/anthropic-white.svg",
